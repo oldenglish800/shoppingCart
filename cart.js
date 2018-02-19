@@ -1,7 +1,7 @@
-function hideShippingForm() {
-    $('#shipping-form').hide();
-};
-hideShippingForm();
+//function hideShippingForm() {
+   // $('#shipping-form').hide();
+//}
+//hideShippingForm();
 
 $('.btn').click(function() {
     let productName = $(this).parent().siblings('p').first().text();
