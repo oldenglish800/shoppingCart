@@ -1,6 +1,6 @@
 function hideShippingForm() {
     $('#shipping-form').hide();
-}
+};
 hideShippingForm();
 
 $('.btn').click(function() {
